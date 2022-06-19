@@ -1,6 +1,7 @@
 # httpbench
 ## Introduction
 httpbench is a simple http benchmark app base on linux epoll.
+Its performance is slightly higher than that of webbench.
 
 ## Install
 ```shell
